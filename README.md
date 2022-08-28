@@ -1,6 +1,6 @@
 # Python_Projects
 
-Project #1: Movie Data Analysis
+Project #1: Movie Data Analysis <br>
 Used pandas, matplotlib and seaborn to analyze IMDB movie data. 
 
 Data source: https://www.kaggle.com/datasets/danielgrijalvas/movies
