@@ -1,7 +1,8 @@
 # Python_Projects
 
 
-Project #1: Heart Failure Data Analysis (in progress) <br> 
+
+Project #1: Heart Failure Data Analysis <br> 
 Used pandas, matplotlib and seaborn to analyze heart disease data. 
 
 Data source: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
